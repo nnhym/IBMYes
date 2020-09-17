@@ -1,4 +1,4 @@
-name: IBM Cloud Auto Restart
+name: [ibm-nnhym-es] IBM Cloud Auto Restart
 
 on:
   push:
