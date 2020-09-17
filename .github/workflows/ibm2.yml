@@ -1,4 +1,4 @@
-name: [ibm-tt-ss] IBM Cloud Auto Restart
+name: (ibm-tt-ss)IBM Cloud Auto Restart
 
 on:
   push:
